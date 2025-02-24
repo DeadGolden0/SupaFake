@@ -10,7 +10,7 @@ Welcome to the **SupaFake** repository! This is a simple Node.js script that gen
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/SupaFake
+git clone https://github.com/DeadGolden0/SupaFake
 cd SupaFake
 ```
 
